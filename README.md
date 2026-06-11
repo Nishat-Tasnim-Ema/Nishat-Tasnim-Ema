@@ -73,10 +73,5 @@ I’m Nishat Tasnim Ema, an aspiring Full-Stack Software Developer passionate ab
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 <br>
-  <hr>
- <h3>Connect With Me/<h3>
-<br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nishattasnim.ema.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishat-tasnim-ema-106a5a2b7) 
+<hr>
 
-<br>
-<br>
