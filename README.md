@@ -59,7 +59,7 @@ I’m Nishat Tasnim Ema, an aspiring Full-Stack Software Developer passionate ab
 <br>
 <hr>
 
-<h32>Research Focus</h3>
+<h3>Research Focus</h3>
 <ul>
 <li> REST API Integration</li>
 <li>AI Integration</li>
