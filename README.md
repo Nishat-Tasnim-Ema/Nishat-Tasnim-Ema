@@ -64,19 +64,19 @@ Artificial Intelligence • Machine Learning • Deep Learning • Data Science 
 <h2 align="center">Social Media & Communication</h2>
  
 <p align="center">
-<a href="mailto:hkaffiqy@gmail.com">
+<a href="ntasnimema01521@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" alt="Email" />
 </a>
  
-<a href="https://github.com/hkaffiqy">
+<a href="https://github.com/Nishat-Tasnim-Ema">
 <img src="https://img.shields.io/badge/GitHub-hkaffiqy-black?logo=github&logoColor=white" alt="GitHub" />
 </a>
  
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/nishat-tasnim-ema-106a5a2b7/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
  
-<a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME">
+<a href="https://www.facebook.com/nishattasnim.ema.1">
 <img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 </p>
