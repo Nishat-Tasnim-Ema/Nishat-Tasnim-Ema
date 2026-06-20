@@ -1,77 +1,94 @@
+<div align="center">
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=900&lines=Hello+I+am+Nishat+Tasnim+Ema;AI%2FML+Enthusiast;Building+Intelligent+Solutions" alt="Animated Header" />
+ 
+<br>
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Welcome%20to%20My%20Profile&fontAlign=50&fontAlignY=35&animation=fadeIn" alt="Profile Banner" />
+ 
+</div>
+ 
+<h2 align="center">About Me</h2>
+ 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=00e5ff&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Nishat+Tasnim+Ema;Aspiring+Full-Stack+Developer;Frontend+%7C+Backend+Learner;Building+Modern+Web+Applications+🚀" />
+Hi, I’m Nishat Tasnim Ema, a student of Computer Science and Engineering at the American International University-Bangladesh. I am passionate about research and continuously exploring the fields of Artificial Intelligence (AI) and Machine Learning (ML). I enjoy learning new technologies, solving problems, and developing a strong foundation in both theoretical and practical aspects of computer science. My academic journey is driven by curiosity and a strong interest in applying AI/ML concepts to real-world challenges, with the goal of contributing to meaningful research and innovation in the future.
 </p>
-<hr>
-<h3>Introduction</h3>
+ 
 <br>
+ 
+<h2 align="center">Research Goal</h2>
+ 
 <p align="center">
-I’m Nishat Tasnim Ema, an aspiring Full-Stack Software Developer passionate about building modern, responsive, and high-performance web applications with a strong focus on clean UI design and scalable backend systems. I work with core web technologies including HTML, CSS, and JavaScript, and I am continuously expanding my skills toward full-stack development using industry-standard tools and best practices. I am currently pursuing my B.Sc. in Computer Science & Engineering at AIUB, where I am strengthening my foundation in software engineering, problem-solving, and system design while actively improving my practical development experience through real projects and continuous learning.
+My research goal is to explore advanced AI and ML techniques for solving real-world challenges in automation, prediction, decision-making, and intelligent data analysis.
+I am especially interested in applying machine learning, deep learning, and data-driven models to practical domains where technology can improve efficiency, accuracy, and accessibility.
 </p>
+ 
 <br>
-
-<hr>
-<h3>Tech Stack</h3>
-<br>
+ 
+<h2 align="center">Tech Stack</h2>
+ 
+<h3 align="center">Programming Languages</h3>
+ 
 <p align="center">
-<b>Languages</b> <br>
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=r" alt="R" />
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
 </p>
-
-
+ 
+<h3 align="center">Frameworks, Libraries & Tools</h3>
+ 
 <p align="center">
-<b>Frameworks & Technologies</b>
-<br>
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=blacks" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-
-
-
-
+<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-blue?logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-teal?logo=python&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
-
+ 
+<br>
+ 
+<h2 align="center">Focus Areas</h2>
+ 
 <p align="center">
-<b>Databases</b>
-<br>
-<br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
+Artificial Intelligence • Machine Learning • Deep Learning • Data Science • Data Visualization • Research • Software Development
 </p>
-
+ 
 <br>
-<br>
-<hr>
-
-<h3>Research Focus</h3>
-<ul>
-<li> REST API Integration</li>
-<li>AI Integration</li>
-<li>Problem Solving & Data Structures</li>
-<br>
-<br>
-  <hr>
-<h3>GitHub Streak</h3>
-<br>
+ 
+ 
+<h2 align="center">Social Media & Communication</h2>
+ 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<a href="mailto:hkaffiqy@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" alt="Email" />
+</a>
+ 
+<a href="https://github.com/hkaffiqy">
+<img src="https://img.shields.io/badge/GitHub-hkaffiqy-black?logo=github&logoColor=white" alt="GitHub" />
+</a>
+ 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+ 
+<a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME">
+<img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 </p>
+ 
 <br>
-<hr>
-
+ 
+<div align="center">
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile;Let's+build+something+intelligent+together;Keep+learning+%E2%80%A2+Keep+building+%E2%80%A2+Keep+growing" alt="Animated Footer" />
+ 
+<br>
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn" alt="Footer Wave" />
+ 
+</div>
