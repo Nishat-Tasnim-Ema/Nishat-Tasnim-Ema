@@ -30,24 +30,27 @@ I am especially interested in applying machine learning, deep learning, and data
 <h3 align="center">Programming Languages</h3>
  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" alt="Python" />
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-<img src="https://skillicons.dev/icons?i=java" alt="Java" />
-<img src="https://skillicons.dev/icons?i=r" alt="R" />
-<img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r2.svg" alt="R" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg" alt="PHP" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="HTML" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg" alt="C#" />
 </p>
  
-<h3 align="center">Frameworks, Libraries & Tools</h3>
+<h3 align="center">Frameworks & Tools</h3>
  
 <p align="center">
-<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-blue?logo=python&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-teal?logo=python&logoColor=white" alt="Seaborn" />
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm3.svg" alt="PyCharm" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow1.svg" alt="TensorFlow" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" alt="Figma" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="Visual Studio Code" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" alt="Visual Studio" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg" alt=".NET" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch1.svg" alt="PyTorch" />
 </p>
  
 <br>
@@ -63,28 +66,28 @@ Artificial Intelligence • Machine Learning • Deep Learning • Data Science 
  
 <h2 align="center">Social Media & Communication</h2>
  
-<p align="center">
+<div align="center">
 <a href="ntasnimema01521@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" alt="Email" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" alt="Email" />
 </a>
  
 <a href="https://github.com/Nishat-Tasnim-Ema">
-<img src="https://img.shields.io/badge/GitHub-hkaffiqy-black?logo=github&logoColor=white" alt="GitHub" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub" />
 </a>
  
 <a href="https://www.linkedin.com/in/nishat-tasnim-ema-106a5a2b7/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn" />
 </a>
  
-<a href="https://www.facebook.com/nishattasnim.ema.1">
-<img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&logoColor=white" alt="Facebook" />
+<a href="https://www.chess.com/member/nishat-tasnim-ema">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom1.svg" alt="Chess.Com" />
 </a>
 </p>
- 
+ </div>
 <br>
  
 <div align="center">
- 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile;Let's+build+something+intelligent+together;Keep+learning+%E2%80%A2+Keep+building+%E2%80%A2+Keep+growing" alt="Animated Footer" />
  
 <br>
